@@ -3,7 +3,6 @@
 
 import io
 import ntpath
-import re
 import os
 import logging
 from django.shortcuts import render
