@@ -2,7 +2,6 @@
 """Module holding the functions for icon analysis."""
 
 import subprocess
-import re
 import os
 import platform
 import fnmatch
